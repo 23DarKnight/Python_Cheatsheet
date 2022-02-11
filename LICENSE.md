@@ -1,4 +1,4 @@
-Licence and terms of use
+# Licence and Terms of use
 
 1. This collection of cheatsheet is work of Atharva Bhunje.
 
